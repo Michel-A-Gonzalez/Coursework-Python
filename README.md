@@ -1,4 +1,4 @@
-# Course-Work-Python-
+# Coursework (Python)
 
 This Reposatory is dedicated to all Course work done during Bachlor Degree and Elements of Computing Certificate
 
